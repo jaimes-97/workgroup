@@ -1,1 +1,5 @@
 # workgroup
+
+* Foo
+* Bar
+
